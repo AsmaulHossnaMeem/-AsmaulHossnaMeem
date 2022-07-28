@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Asmaul Hossna
+### Hi there 👋,
+My name is Asmaul Hossna
 I am a student 
 I am currently studying CSE in BUBT
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: asmaulhossnameem@gmail.com 
 
 
